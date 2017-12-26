@@ -26,7 +26,7 @@ class Stack
         else
         {
             a[++top] = x;
-            return true;
+             return true;
         }
        
        return false;
